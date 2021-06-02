@@ -136,12 +136,14 @@ int main() {
   Station core = Station( 3400 );
   
   //cout<<core.Production( true, true, true );
-  
+  /*
   for( int i = 750; i < 2220 + 1255; i++ ) {
     core.total = i;
     if( core.Production( true, true, true ) == -1 ) {
       cout<<i<<" "<<core.Production( true, true, true )<<"\n";
     }
   }
+  */
+  
   return 0;
 }
