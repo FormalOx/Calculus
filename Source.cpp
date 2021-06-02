@@ -194,7 +194,7 @@ int main() {
   
   //The following tests reveal that p2 will always perform worse than p1, no matter the input flow
   cout<<" ------------------------\n ";
-  lambdaaa( 1500 );
+  lambdaaa( 2500 );
   //More tests point to the folowing output hierarchy 
   //      430       682
   //  p1   |    p1   |    p3
